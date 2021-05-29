@@ -24,12 +24,12 @@ There are 2 notebooks in this repo.
 
 *sometimes github doesnt load the notebook inorder to get the full experience of the notebook please click this* -> 
 
-**EDA Notebook**
+## `EDA Notebook :`
 [EDA_notebook](https://nbviewer.jupyter.org/github/sashank24/Cloud_Classification/blob/main/Cloud_Pattern_Prediction_EDA.ipynb) (📍wait for it load...)
 
 *if the above method doesn't work TRY THIS* -> copy paste this link https://github.com/sashank24/Cloud_Classification/blob/main/Cloud_Pattern_Prediction_EDA.ipynb in this [nbviewer.jupyter.org](https://nbviewer.jupyter.org/) website and click the file with the '.ipynb' extension and wait for it to render (takes about 10 seconds) 
 
-**Model Building Notebook**
+## `Model Building Notebook : `
 [Model_building_Notebook](https://nbviewer.jupyter.org/github/sashank24/Cloud_Classification/blob/main/Clouds_Model.ipynb)
 
 *if the above method doesn't work TRY THIS* -> copy paste this link https://github.com/sashank24/Cloud_Classification/blob/main/Clouds_Model.ipynb in this [nbviewer.jupyter.org](https://nbviewer.jupyter.org/) website and click the file with the '.ipynb' extension and wait for it to render (takes about 10 seconds) 
