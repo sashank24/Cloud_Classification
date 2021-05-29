@@ -18,6 +18,10 @@ Hence, i want see how well Neural Networks can look for and find patterns in the
 
 **🔑 KEY NOTE: please read this**
 
+There are 2 notebooks in this repo.
+- In the first Notebook i have performed Exploratory Data Analysis(EDA)
+- In the second Notebook i have performed the Model Building
+
 *sometimes github doesnt load the EDAnotebook inorder to get the full experience of the notebook please click this* -> [EDA_notebook](https://nbviewer.jupyter.org/github/sashank24/Cloud_Classification/blob/main/Cloud_Pattern_Prediction_EDA.ipynb) (📍wait for it load...)
 
 *if the above method doesn't work TRY THIS* -> copy paste this link https://github.com/sashank24/Cloud_Classification/blob/main/Cloud_Pattern_Prediction_EDA.ipynb in this [nbviewer.jupyter.org](https://nbviewer.jupyter.org/) website and click the file with the '.ipynb' extension and wait for it to render (takes about 10 seconds) 
