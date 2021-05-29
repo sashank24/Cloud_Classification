@@ -10,6 +10,11 @@ There are 4 types of cloud formations:
 
 In this project we are going to classify the formations between these 4 classes.
 
+## Reason For This Project
+
+As we all know that climate is highly unstable and there are a lot of factors influencing the change in formations. Even for human it is a challenging task to interpret the climate and make accurate predictions.
+
+Hence, i want see how well Neural Networks can look for and find patterns in the images which are imposible to analyze by humans and check if there are other factors/variables which impacts the overall climate and prove that even in chaotic instances where humans fail to fathom, Neural Networks can predict the patterns and produce convincing results.  
 **🔑 KEY NOTE: please read this**
 
 *sometimes github doesnt load the EDAnotebook inorder to get the full experience of the notebook please click this* -> [EDA_notebook](https://nbviewer.jupyter.org/github/sashank24/Cloud_Classification/blob/main/Cloud_Pattern_Prediction_EDA.ipynb) (📍wait for it load...)
@@ -56,7 +61,7 @@ The link is anchored here -> [Understanding Clouds from Satellite Images](https:
 
 ## Model Overview
 
-- Used InceptionResNetV2 a pretrained on Model on ImageNet to train the data.
+- Used InceptionResNetV2 a pretrained Model on ImageNet to train the data.
 - Overall model took **32 hours** to train.
 - The Mean PR AUC was around **61%**.
-- This model's Recall was good and out of all the truth values it successfully predicted the True Positives almost perfectly.
+- This model's Recall was good and out of all the truth values it successfully predicted the True Positives almost perfectly
